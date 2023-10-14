@@ -11,10 +11,11 @@ A modern and simple to-do list app built using React Native.
 
 ## Screenshots
 
-![Screenshot_2023-10-14-19-07-38-05_f73b71075b1de7323614b647fe394240](https://github.com/Mohamed-Rabie-Abdelhameed/Tik/assets/83073238/26cfb51f-e412-45ac-8c2d-a1f6bf4a42ea)
-![Screenshot_2023-10-14-19-07-34-66_f73b71075b1de7323614b647fe394240](https://github.com/Mohamed-Rabie-Abdelhameed/Tik/assets/83073238/1768a854-7c91-4472-a33f-0ca840dbfcc0)
-![Screenshot_2023-10-14-19-07-31-66_f73b71075b1de7323614b647fe394240](https://github.com/Mohamed-Rabie-Abdelhameed/Tik/assets/83073238/5339af26-5765-4925-8a40-6fb78a14e2e6)
-
+<div align="center">
+  <img src="https://github.com/Mohamed-Rabie-Abdelhameed/Tik/assets/83073238/5339af26-5765-4925-8a40-6fb78a14e2e6" width="250" hspace="10" />
+  <img src="https://github.com/Mohamed-Rabie-Abdelhameed/Tik/assets/83073238/1768a854-7c91-4472-a33f-0ca840dbfcc0" width="250" hspace="10" />
+  <img src="https://github.com/Mohamed-Rabie-Abdelhameed/Tik/assets/83073238/26cfb51f-e412-45ac-8c2d-a1f6bf4a42ea" width="250" hspace="10" />
+</div>
 
 
 
