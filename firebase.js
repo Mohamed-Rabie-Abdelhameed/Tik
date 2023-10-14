@@ -58,6 +58,13 @@ export const getGroups = async () => {
   return groups;
 };
 
+// get number of tasks in a group from firebase
+export const getNumTasks = async (group) => {
+  const tasksCollectionRef = collection(db, "groups", group.id, "tasks");
+  const querySnapshot = await getDocs(tasksCollectionRef);
+  return querySnapshot.size;
+};
+
 // get tasks from firebase
 export const getTasks = async (group) => {
   const tasksCollectionRef = collection(db, "groups", group.id, "tasks");
